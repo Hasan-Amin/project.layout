@@ -1,0 +1,70 @@
+.hader{
+	height: 100px;
+	background-color: green;
+	text-align: center;
+}
+.box{
+	overflow: hidden;
+	border: 5px solid black;
+
+}
+.box1{
+	float: left;
+	width: 60%;
+	height: 100px;
+	background-color: red;
+	text-align: center;
+	box-sizing: border-box;
+	border: 4px solid yellow;	
+
+}
+.box2{
+	float: right;
+	width: 40%;
+	height: 100px;
+	background-color: blue;
+	text-align: center;
+	
+}
+.boxx{
+	overflow: hidden;
+}
+.bbox{
+	float: left;
+	width: 25%;
+	height: 100px;
+	text-align: center;
+}
+.boxx1{
+	background-color: orange;
+
+}
+.boxx2{
+	background-color: yellow;
+
+}
+.boxx3{
+	background-color: orange;
+
+
+}
+.boxx4{
+	background-color: gray;
+}
+.footer{
+	height: 100px;
+	text-align: center;
+	background-color: black;
+}
+h1, p {
+	display: inline;
+}
+.block{
+	display: block;
+}
+.p{
+	display: inline-block;
+}
+.pp{
+	display:inline;
+}
